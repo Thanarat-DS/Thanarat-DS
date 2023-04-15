@@ -25,6 +25,6 @@
 <br> <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanarat-DS)](https://github.com/anuraghazra/github-readme-stats) -->
 
 My notes that I learned about data science. <br>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Thanarat-DS/Data-Science-Notes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thanarat-DS&repo=Data-Science-Notes&theme=buefy" />
 </a>
