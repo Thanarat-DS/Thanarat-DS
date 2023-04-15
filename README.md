@@ -26,5 +26,5 @@
 
 My notes that I learned about data science. <br>
 <a href="https://github.com/Thanarat-DS/Data-Science-Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thanarat-DS&repo=Data-Science-Notes&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thanarat-DS&repo=Data-Science-Notes&theme=dracula" />
 </a>
