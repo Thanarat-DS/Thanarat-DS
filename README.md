@@ -31,3 +31,8 @@ My notes that I learned about data science. <br>
 <a href="https://github.com/Thanarat-DS/Data-Science-Notes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thanarat-DS&repo=Data-Science-Notes&theme=dracula" />
 </a>
+
+### 🏅 My Certificate :
+<a href="https://www.credly.com/badges/876749c4-a2a2-420c-af63-916038977578/linked_in?t=rsvr53">
+  <img src="https://github.com/Thanarat-DS/Thanarat-DS/blob/main/Google%20Data%20Analytics%20Certificate.png" alt="Google Data Analytics Certificate"> 
+</a>
