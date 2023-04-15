@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Thanarat Srihapol, who is passionate about Data Science, Artificial Intelligence, and Machine Learning.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
