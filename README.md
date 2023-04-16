@@ -41,6 +41,6 @@ My notes that I learned about data science. <br>
 ### 🏅 My Certificate :
 Google Data Analytics Certificate <br>
 <a href="https://www.credly.com/badges/876749c4-a2a2-420c-af63-916038977578/linked_in?t=rsvr53">
-  <img src="https://github.com/Thanarat-DS/Thanarat-DS/blob/main/Asset/Google%20Data%20Analytics%20Certificate.png" alt="Google Data Analytics Certificate" width="200" height="200"> 
+  <img src="https://github.com/Thanarat-DS/Thanarat-DS/blob/main/Asset/Google%20Data%20Analytics%20Certificate.png" alt="Google Data Analytics Certificate" width="50" height="50"> 
 </a>
 <br> (Click on the image to see more details.)
