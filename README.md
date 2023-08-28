@@ -45,3 +45,4 @@ Google Data Analytics Certificate <br>
   <img src="https://github.com/Thanarat-DS/Thanarat-DS/blob/main/Asset/Google-Data-Analytics-Certificate.png" alt="Google Data Analytics Certificate" width="300" height="300"/>
 </a>
 <br> (Click on the image to see more details.)
+Other certificates: <a href="https://github.com/Thanarat-DS/Thanarat-DS/tree/main/MyCertificate">link here.</a>
