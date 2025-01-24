@@ -40,7 +40,7 @@ My notes that I learned about data science. <br>
 </a>
 
 ### 🏅 My Certificate :
-Meta Back-End Developer Certificate
+Meta Back-End Developer Certificate <br>
 <a href="https://www.credly.com/badges/1e6b360c-f0a0-48ca-9a6e-bb04fb729165/public_url">
   <img src="https://github.com/Thanarat-DS/Thanarat-DS/blob/main/Asset/Meta-Back-End-Developer-Certificate-Badge.png" alt="Google Data Analytics Certificate" width="300" height="300"/>
 </a> <br>
